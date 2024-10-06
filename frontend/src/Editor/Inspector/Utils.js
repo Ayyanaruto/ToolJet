@@ -28,7 +28,7 @@ export function renderCustomStyles(
   components = {},
   accordian,
   darkMode = false,
-  placeholder = ''
+  placeholder = 'sffsfsfa'
 ) {
   const componentConfig = component.component;
   const componentDefinition = componentConfig.definition;
